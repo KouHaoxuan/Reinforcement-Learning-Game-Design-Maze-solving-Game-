@@ -112,7 +112,9 @@ Episode: 333, Score: 1020, Step: 20
 
 After training, the agent plays the game, and the GUI updates the agent's position, score, and steps in real-time.
 
-！[Learning Process](Sample.jpg)
+# Maze Game Screenshot
+
+![Maze Screenshot](Sample.jpg)
 ---
 
 
