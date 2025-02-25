@@ -1,5 +1,4 @@
 # Reinforcement-Learning-Game-Design-Maze-solving-Game
-# Maze Game with Q-learning
 
 ## Overview
 
