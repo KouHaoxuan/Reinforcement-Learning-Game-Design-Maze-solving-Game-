@@ -114,6 +114,7 @@ After training, the agent plays the game, and the GUI updates the agent's positi
 
 ---
 
+
 ## License
 
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
@@ -124,7 +125,7 @@ This project is open-source and available under the MIT License. Feel free to us
 
 - **Q-learning Algorithm**: Based on the reinforcement learning algorithm by Christopher J. C. H. Watkins.
 - **Libraries**: Thanks to the developers of `tkinter`, `Pillow`, and `pandas` for their excellent libraries.
-
+- **Image Materials**: The character's image material was obtained from this website:https://www.pixiv.net/users/55543702/artworks?p=1.
 ---
 
 Enjoy the maze game and happy learning! 🚀
